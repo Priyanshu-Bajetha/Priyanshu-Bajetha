@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Priyanshu-Bajetha
-- 👀 I’m interested in WEB 3.0 
-- 🌱 I’m currently learning Solidity
-
+- 👋 Hi,there It's me @Priyanshu-Bajetha
+- 
 
 
 <!---
