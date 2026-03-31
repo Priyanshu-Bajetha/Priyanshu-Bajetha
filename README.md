@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year undergraduate at Chandigarh University, a Full Stack Developer with cybersecurity skills, passionate about exploring the digital world and solving real-world problems through innovative solutions.
+A Full Stack Developer with cybersecurity skills, passionate about exploring the digital world and solving real-world problems through innovative solutions.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-bajetha-785083222/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bajetha.priyanshu@gmail.com) 
 
